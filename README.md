@@ -2,7 +2,7 @@
 [![Mohammad Salehi StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/6934036)](https://stackoverflow.com/users/6934036/mohammad-salehi)
 [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:msalehi-d@gmail.com)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![mailto:msalehi-d@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!--
 **msalehi-d/msalehi-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
