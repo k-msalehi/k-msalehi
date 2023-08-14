@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Mohammad Salehi StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/6934036)](https://stackoverflow.com/users/6934036/mohammad-salehi)
 
 
