@@ -2,9 +2,9 @@
 [![Mohammad Salehi StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/6934036)](https://stackoverflow.com/users/6934036/mohammad-salehi)
 
 
-<img src="https://img.shields.io/badge/msalehid97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+[<img src="https://img.shields.io/badge/msalehid97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:msalehid97@gmail.com)
 
-<img src="https://img.shields.io/badge/@mdsalehi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+[<img src="https://img.shields.io/badge/@mdsalehi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mdsalehi/)
 
 <!--
 **msalehi-d/msalehi-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
