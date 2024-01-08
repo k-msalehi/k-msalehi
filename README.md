@@ -1,4 +1,15 @@
-Hi there 👋
+###Hi there 👋
+
+### 🛠 &nbsp;Tech Stack
+![PHP](https://img.shields.io/badge/-PHP-fff?style=flat&logo=php)&nbsp;
+![PHP](https://img.shields.io/badge/-Laravel-fff?style=flat&logo=laravel)&nbsp;
+![PHP](https://img.shields.io/badge/-Livewire-fff?style=flat&logo=Livewire&logoColor=fb70a9)&nbsp;
+![PHP](https://img.shields.io/badge/WordPress-fff?style=flat&logo=WordPress&logoColor=grey)&nbsp;
+![PHP](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=MySQL)&nbsp;
+![PHP](https://img.shields.io/badge/-MariaDB-fff?style=flat&logo=MariaDB&logoColor=blue)&nbsp;
+
+
+### 💬 &nbsp;Social/Connect
 
 [![Mohammad Salehi StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/6934036)](https://stackoverflow.com/users/6934036/mohammad-salehi)
 
