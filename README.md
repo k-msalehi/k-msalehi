@@ -2,6 +2,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-fff?style=flat&logo=php)&nbsp;
+![PHP](https://img.shields.io/badge/-CodeIgniter-fff?style=flat&logo=codeigniter)&nbsp;
 ![PHP](https://img.shields.io/badge/-Laravel-fff?style=flat&logo=laravel)&nbsp;
 ![PHP](https://img.shields.io/badge/-Livewire-fff?style=flat&logo=Livewire&logoColor=fb70a9)&nbsp;
 ![PHP](https://img.shields.io/badge/WordPress-fff?style=flat&logo=WordPress&logoColor=grey)&nbsp;
