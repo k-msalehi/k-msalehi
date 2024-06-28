@@ -16,7 +16,7 @@
 
 [<img src="https://img.shields.io/badge/msalehid97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:msalehid97@gmail.com)
 
-[<img src="https://img.shields.io/badge/@mdsalehi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mdsalehi/)
+[<img src="https://img.shields.io/badge/@kmsalehi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kmsalehi/)
 
 <!--
 **msalehi-d/msalehi-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
